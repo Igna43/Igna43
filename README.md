@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Quant Finance R Packages.   
 - 🤔 I’m looking for help with Documentation.
 - 💬 Ask me about any tech related stuff!
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 __Social__
