@@ -5,9 +5,14 @@
 - 👯 I’m looking to collaborate on Quant Finance R Packages.   
 - 🤔 I’m looking for help with Documentation.
 - 💬 Ask me about any tech related stuff!
-- 📫 How to reach me: [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
+
+---
+
+Social
+
+[![LinkedIn](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=http://linkedin.com/in/johncoene)][linkedin]
 
 ---
 
