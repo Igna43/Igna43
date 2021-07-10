@@ -7,7 +7,7 @@
 - 💬 Ask me about any tech related stuff!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ignacio-mangini-baa275186/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Coffee Addict.
+- ⚡ Fun fact: ...
 
 ---
 
