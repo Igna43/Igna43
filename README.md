@@ -5,7 +5,8 @@ I'm Ignacio Mangini a Data Analyst and Machine Learning Amateur. I spend most of
 - 🔭 I’m currently working on R & Shiny Projects.
 - 🌱 I’m currently learning Docker, Google Cloud, and JavaScript.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 👯 I’m looking to collaborate on Quant Finance R Packages.   
+- 👯 I’m looking to collaborate on Quant Finance R Packages. 
+- 🤔 I’m looking for help with Documentation.  
 - 💬 Ask me about any tech related stuff!
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I play games and go to the GYM very often.
