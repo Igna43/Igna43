@@ -29,5 +29,5 @@ __Tech__
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&link=https://github.com/JohnCoene/)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://hub.docker.com/u/jcoenep)
 
-[linkedin]: www.linkedin.com/in/ignacio-mangini
+[linkedin]: https://www.linkedin.com/in/ignacio-mangini/
 
