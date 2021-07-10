@@ -11,4 +11,4 @@
 
 ---
 
-![Igna43's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igna43&show_icons=true&theme=prussian)
+![Igna43's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igna43&show_icons=true&theme=prussian&hide_border=true)
