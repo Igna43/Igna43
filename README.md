@@ -1,16 +1,18 @@
-### Hi there, I'm Ignacio Mangini 👋 ! 
+### Hi there, I'm Ignacio! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+I'm Ignacio Mangini a Data Analyst and Machine Learning Amateur. I spend most of time developing Shiny Apps and coding cool projects.
 
 - 🔭 I’m currently working on R & Shiny Projects.
-- 🌱 I’m currently learning JavaScript, Docker, Google Cloud.
+- 🌱 I’m currently learning Docker, Google Cloud, and JavaScript.
 - 👯 I’m looking to collaborate on Quant Finance R Packages.   
 - 🤔 I’m looking for help with Documentation.
 - 💬 Ask me about any tech related stuff!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I play games and go to the GYM very often.
 
 __Social__
 
-[![LinkedIn](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=http://linkedin.com/in/johncoene)][linkedin]
+[![Linkedin Badge](https://img.shields.io/badge/-Ignacio-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](linkedin)
 
 __Activity__
 
