@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Quant Finance R Packages.   
 - 🤔 I’m looking for help with Documentation.
 - 💬 Ask me about any tech related stuff!
-- 📫 How to reach me: [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin)
+- 📫 How to reach me: [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
