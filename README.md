@@ -12,7 +12,7 @@ I'm Ignacio Mangini a Data Analyst and Machine Learning Amateur. I spend most of
 
 __Social__
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ignacio-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](linkedin)
+[![Linkedin Badge](https://img.shields.io/badge/-Ignacio-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
 
 __Activity__
 
