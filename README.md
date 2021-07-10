@@ -10,9 +10,10 @@ I'm Ignacio Mangini a Data Analyst and Machine Learning Amateur. I spend most of
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
-__Social__
+__Reach me out!__
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ignacio-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
+[![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][mail]
 
 __Activity__
 
@@ -32,4 +33,5 @@ __Tech__
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://hub.docker.com/u/jcoenep)
 
 [linkedin]: https://www.linkedin.com/in/ignacio-mangini/
+[mail]: mailto:ignacio.mangini43@gmail.com
 
