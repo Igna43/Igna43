@@ -18,4 +18,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/ignacio-mangini-baa275186
