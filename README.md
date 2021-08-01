@@ -13,25 +13,24 @@ I'm Ignacio Mangini a Data Analyst and Machine Learning Amateur. I spend most of
 
 __Reach me out!__
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ignacio-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
-[![Mail Badge](https://img.shields.io/badge/-ignaciomangini-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][mail]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/linkedin.svg" />][linkedin]
+[![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][mail]
 
 __Activity__
 
 ![Igna43's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igna43&show_icons=true&theme=prussian&hide_border=true&count_private=true)
 
-__Tech & Tools__
+__Languages & Tools__
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 ![R](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/JohnCoene/)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&link=https://github.com/JohnCoene/)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://hub.docker.com/u/jcoenep)
 
 [linkedin]: https://www.linkedin.com/in/ignacio-mangini/
 [mail]: mailto:ignacio.mangini43@gmail.com
