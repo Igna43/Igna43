@@ -9,7 +9,6 @@ I'm Ignacio Mangini and I'm an R Developer / Data Analyst as well as Machine Lea
 - 🤔 I’m looking for help with Documentation.  
 - 💬 Ask me about any tech related stuff!
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I play games and go to the GYM very often.
 
 __Reach me out!__
 
