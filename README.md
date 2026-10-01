@@ -35,6 +35,3 @@ Outside of work, I'm particularly interested in quantitative finance, systematic
 - Portfolio research
 - Financial data pipelines
 
-<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/linkedin.svg" />
-
-<br />
