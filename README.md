@@ -1,36 +1,40 @@
-### Hi there, I'm Ignacio! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+Hi, I'm Ignacio 👋
 
-I'm Ignacio Mangini and I'm an R Developer / Data Analyst as well as Machine Learning Amateur. I spend most of time developing Shiny Apps and coding cool projects.
+I'm a Senior Analytics Engineer with 6+ years of experience working across data analytics, data modeling, and data platforms.
 
-- 🔭 I’m currently working on R & Shiny Projects.
-- 🌱 I’m currently learning Docker, Google Cloud, and JavaScript.
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 👯 I’m looking to collaborate on Quant Finance R Packages. 
-- 🤔 I’m looking for help with Documentation.  
-- 💬 Ask me about any tech related stuff!
-- 😄 Pronouns: He/Him.
+I'm currently expanding deeper into Data Engineering and AI-ready data infrastructure, with a focus on building reliable, scalable data systems using Python, SQL, Snowflake, dbt, cloud platforms, and orchestration tools.
 
-__Reach me out!__
+Outside of work, I'm particularly interested in quantitative finance, systematic investing, and applied machine learning.
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/linkedin.svg" />][linkedin]
-[![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][mail]
+**What I'm working on**
+- Building production-grade data pipelines and data platforms
+- Deepening my knowledge of AWS and cloud data engineering
+- Developing with Python and SQL
+- Working with Snowflake, dbt, and modern analytics engineering workflows
+- Exploring orchestration with Airflow and Dagster
+- Learning how Data Engineering can support LLMs, RAG, and enterprise AI systems
+- Researching and implementing systematic and quantitative investment strategies
 
-__Activity__
+**Current Focus**
+- Data Engineering
+- Data pipelines and ETL/ELT
+- Data modeling and architecture
+- Python and SQL
+- Snowflake and dbt
+- AWS and GCP
+- Airflow and Dagster
+- Docker and cloud infrastructure
+- AI Data Infrastructure
+- Data ingestion for AI systems
+- Embeddings and vector databases
+- RAG pipelines
+- Enterprise AI data platforms
+- Quantitative Research
+- Systematic investment strategies
+- Backtesting
+- Portfolio research
+- Financial data pipelines
 
-![Igna43's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igna43&show_icons=true&theme=prussian&hide_border=true&count_private=true)
+<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/linkedin.svg" />
 
-__Languages & Tools__
-
-<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-![R](https://img.shields.io/badge/-programming-black?style=flat-square&logo=r&link=https://github.com/JohnCoene/)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&link=https://github.com/JohnCoene/)
-
-[linkedin]: https://www.linkedin.com/in/ignacio-mangini/
-[mail]: mailto:ignacio.mangini43@gmail.com
-
+<br />
